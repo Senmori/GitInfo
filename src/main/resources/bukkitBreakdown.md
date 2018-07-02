@@ -194,4 +194,5 @@ Ryan Michela  |  1
 
 #### Disclaimer
 Contributions have been condensed if a user has several known aliases.
+
 (i.e. md_5 and md-5, Dinnerbone and Nathan Adams, etc.)
